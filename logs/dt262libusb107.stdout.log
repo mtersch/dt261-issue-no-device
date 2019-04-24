@@ -1,0 +1,9 @@
+2,066465 [camera_control] creating new context 0x7fd9c7821130
+2,114895 [camera_control] loaded 2601 camera drivers.
+2,268792 [camera_control] loaded 4 port drivers.
+2,284199 [camera_control] 0 cameras connected
+2,317530 [camera_control] registering listener 0x7fd9c5a3d560
+11,648735 [camera_control] loaded 5 port drivers.
+11,662898 [camera_control] 1 cameras connected
+12,184730 [camera_control] device Nikon DSC D610 on port usb:253,003 initialized
+19,119381 [camera_control] unregistering listener 0x7fd9c5a3d560

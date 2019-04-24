@@ -1,0 +1,1033 @@
+
+(process:1232): GLib-GObject-CRITICAL **: 13:29:13.311: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(process:1232): Gtk-WARNING **: 13:29:13.321: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(darktable-bin:1232): GLib-GObject-WARNING **: 13:29:13.630: invalid cast from 'GtkMenuBar' to 'GtkWindow'
+
+(darktable-bin:1232): Gtk-CRITICAL **: 13:29:13.630: gtk_window_add_accel_group: assertion 'GTK_IS_WINDOW (window)' failed
+[timestamp] [threadID] facility level [function call] <message>
+--------------------------------------------------------------------------------
+[-175530873.999999] [0000571b] libusb: debug [libusb_init] created default context
+[-950326504.000032] [0000571b] libusb: debug [libusb_init] libusb v1.0.22.11312
+[3807.000000] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x3a3651e2
+[3582.000000] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0x09
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x40
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x0424
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x2513
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0bb3
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x3a3651e2
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[43466960.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x3a56555a
+[-175531249.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0x09
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x40
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x0424
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x2513
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0bb3
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x3a56555a
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[43466960.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x3e452423
+[-175531249.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0xef
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x40
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x05ac
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x8509
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0516
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x03
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x3e452423
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[43466960.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x49c4e6ed
+[-175531249.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x08
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x05ac
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x0253
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0118
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x49c4e6ed
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff095602900 at 0x7ff0998f583a
+[43466960.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x49d76c09
+[-175531249.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x08
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x05ac
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x8242
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0016
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x49d76c09
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff099954c00 at 0x7ff0998f525a
+[43466960.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x4cb46d62
+[-175531249.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0x09
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x08
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x0a5c
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x4500
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0100
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x4cb46d62
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff095602900 at 0x7ff097cb422a
+[43466960.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x5dd39eee
+[-175531249.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0xff
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x40
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x05ac
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x821a
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0042
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x02
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x00
+[-175531248.999999] [0000571b] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff0998c8f80 for with session 0x5dd39eee
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff095623730 at 0x7ff098f8271a
+[1380574107.561752] [00007a23] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574107.561994] [00007a23] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574107.562083] [0000571b] libusb: debug [usbi_add_pollfd] add fd 14 events 1
+[1380574107.562115] [0000571b] libusb: debug [libusb_get_device_list] 
+[1380574107.562158] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562167] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562174] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562181] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562188] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562195] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562202] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.562211] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562245] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562256] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562267] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562276] [0000571b] libusb: debug [parse_configuration] skipping descriptor 0xb
+[1380574107.562284] [0000571b] libusb: debug [parse_endpoint] skipping descriptor 25
+[1380574107.562303] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562345] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562356] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562367] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.562375] [0000571b] libusb: debug [parse_configuration] skipping descriptor 0xb
+[1380574107.562383] [0000571b] libusb: debug [parse_endpoint] skipping descriptor 25
+[1380574107.562399] [0000571b] libusb: debug [libusb_exit] 
+[1380574107.562407] [0000571b] libusb: debug [libusb_exit] destroying default context
+[1380574107.562416] [0000571b] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574107.562432] [0000571b] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574107.562453] [0000571b] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574107.562468] [0000571b] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574107.562489] [0000571b] libusb: debug [handle_events] poll() returned 0
+[1380574107.562504] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574107.562523] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574107.562532] [0000571b] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574107.562540] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574107.562548] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574107.562556] [0000571b] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574107.562566] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574107.562574] [0000571b] libusb: debug [usbi_remove_pollfd] remove fd 14
+[-11657.000000] [00007a23] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[212881505.000000] [0000571b] libusb: debug [libusb_init] created default context
+[-950326504.000032] [0000571b] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531248.000000] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x3a3651e2
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x3a56555a
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x3e452423
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x49c4e6ed
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff09571dac0 at 0x7ff0998f583a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x49d76c09
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff097cb5890 at 0x7ff0998f525a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x4cb46d62
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff09571dac0 at 0x7ff097cb422a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09571b890 for with session 0x5dd39eee
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff097c66940 at 0x7ff098f8271a
+[1380574107.571837] [0000a02f] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574107.572047] [0000a02f] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574107.572086] [0000571b] libusb: debug [usbi_add_pollfd] add fd 13 events 1
+[1380574107.572151] [0000571b] libusb: debug [libusb_get_device_list] 
+[1380574107.572180] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.572188] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.572195] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.572202] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.572209] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.572216] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.572223] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.573922] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.573935] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.573999] [0000571b] libusb: debug [libusb_exit] 
+[1380574107.574008] [0000571b] libusb: debug [libusb_exit] destroying default context
+[1380574107.574016] [0000571b] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574107.574024] [0000571b] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574107.574046] [0000571b] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574107.574057] [0000571b] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574107.574073] [0000571b] libusb: debug [handle_events] poll() returned 0
+[1380574107.574081] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574107.574089] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574107.574098] [0000571b] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574107.574106] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574107.574113] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574107.574122] [0000571b] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574107.574130] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574107.574138] [0000571b] libusb: debug [usbi_remove_pollfd] remove fd 13
+[-11657.000000] [0000a02f] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[212881505.000000] [0000571b] libusb: debug [libusb_init] created default context
+[-950326504.000032] [0000571b] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531248.000000] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x3a3651e2
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x3a56555a
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x3e452423
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x49c4e6ed
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff09997b0c0 at 0x7ff0998f583a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x49d76c09
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff09997b160 at 0x7ff0998f525a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x4cb46d62
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff09997b0c0 at 0x7ff097cb422a
+[43466016.000028] [0000571b] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [0000571b] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [0000571b] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [0000571b] libusb: debug [process_new_device] allocating new device in context 0x7ff09997adf0 for with session 0x5dd39eee
+[-175531107.999999] [0000571b] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff09997b3e0 at 0x7ff098f8271a
+[1380574107.576956] [00007ab7] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574107.577137] [00007ab7] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574107.577171] [0000571b] libusb: debug [usbi_add_pollfd] add fd 13 events 1
+[1380574107.577220] [0000571b] libusb: debug [libusb_get_device_list] 
+[1380574107.577247] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.577255] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.577263] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.577270] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.577277] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.577284] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.577291] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.578897] [0000571b] libusb: debug [libusb_get_device_descriptor] 
+[1380574107.578908] [0000571b] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574107.578917] [0000571b] libusb: debug [parse_configuration] skipping descriptor 0xb
+[1380574107.578925] [0000571b] libusb: debug [parse_endpoint] skipping descriptor 25
+[1380574107.578982] [0000571b] libusb: debug [libusb_exit] 
+[1380574107.578990] [0000571b] libusb: debug [libusb_exit] destroying default context
+[1380574107.578998] [0000571b] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574107.579006] [0000571b] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574107.579014] [0000571b] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574107.579024] [0000571b] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574107.579037] [0000571b] libusb: debug [handle_events] poll() returned 0
+[1380574107.579045] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574107.579054] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574107.579063] [0000571b] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574107.579071] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574107.579088] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574107.579097] [0000571b] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574107.579105] [0000571b] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574107.579113] [0000571b] libusb: debug [usbi_remove_pollfd] remove fd 13
+[-11657.000000] [00007ab7] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[212881505.000000] [00000307] libusb: debug [libusb_init] created default context
+[-950326504.000032] [00000307] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531248.000000] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x3a3651e2
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x3a56555a
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x3e452423
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x49c4e6ed
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff099b61870 at 0x7ff0998f583a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x49d76c09
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff095433560 at 0x7ff0998f525a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x4cb46d62
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff099b61870 at 0x7ff097cb422a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x5dd39eee
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff099b64ae0 at 0x7ff098f8271a
+[1276155040.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] caching new device with sessionID 0x803c9cf1b2f
+[-175531249.999999] [00000307] libusb: debug [darwin_cache_device_descriptor] cached device descriptor:
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bDescriptorType:    0x01
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bcdUSB:             0x0200
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bDeviceClass:       0x00
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bDeviceSubClass:    0x00
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bDeviceProtocol:    0x00
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bMaxPacketSize0:    0x40
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   idVendor:           0x04b0
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   idProduct:          0x0434
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bcdDevice:          0x0101
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   iManufacturer:      0x01
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   iProduct:           0x02
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   iSerialNumber:      0x03
+[-175531248.999999] [00000307] libusb: debug [darwin_cache_device_descriptor]   bNumConfigurations: 0x01
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b615a0 for with session 0x803c9cf1b2f
+[-175531104.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff095433560 at 0x7ff09543363a
+[1380574116.344561] [0000f42b] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574116.344807] [0000f42b] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574116.344846] [00000307] libusb: debug [usbi_add_pollfd] add fd 17 events 1
+[1380574116.344883] [00000307] libusb: debug [libusb_get_device_list] 
+[1380574116.344925] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344933] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344940] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344947] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344953] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344960] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344967] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344973] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.344981] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.344994] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345009] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345019] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345029] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345037] [00000307] libusb: debug [parse_configuration] skipping descriptor 0xb
+[1380574116.345045] [00000307] libusb: debug [parse_endpoint] skipping descriptor 25
+[1380574116.345080] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345099] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345136] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345161] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345178] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.345188] [00000307] libusb: debug [parse_configuration] skipping descriptor 0xb
+[1380574116.345196] [00000307] libusb: debug [parse_endpoint] skipping descriptor 25
+[1380574116.345215] [00000307] libusb: debug [libusb_exit] 
+[1380574116.345223] [00000307] libusb: debug [libusb_exit] destroying default context
+[1380574116.345233] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.345241] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.345249] [00000307] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574116.345260] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574116.345276] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.345284] [00000307] libusb: debug [libusb_unref_device] destroy device 253.3
+[1380574116.345293] [00000307] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574116.345301] [00000307] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574116.345309] [00000307] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574116.345317] [00000307] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574116.345325] [00000307] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574116.345333] [00000307] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574116.345342] [00000307] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574116.345350] [00000307] libusb: debug [usbi_remove_pollfd] remove fd 17
+[-11657.000000] [0000f42b] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[-175531249.999999] [00000307] libusb: debug [libusb_init] created default context
+[-950326504.000032] [00000307] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531249.999999] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x3a3651e2
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x3a56555a
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x3e452423
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x49c4e6ed
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff09554c2e0 at 0x7ff0998f583a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x49d76c09
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff09553d670 at 0x7ff0998f525a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x4cb46d62
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff09554c2e0 at 0x7ff097cb422a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x5dd39eee
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff0955433f0 at 0x7ff098f8271a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x803c9cf1b2f
+[-175531104.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff09553d670 at 0x7ff09543363a
+[1380574116.349697] [0000f633] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574116.350151] [0000f633] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574116.350244] [00000307] libusb: debug [usbi_add_pollfd] add fd 17 events 1
+[1380574116.350355] [00000307] libusb: debug [libusb_get_device_list] 
+[1380574116.350423] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350444] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350462] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350479] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350497] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350515] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350533] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.350551] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.352764] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.352777] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.352800] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.352810] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.352819] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.352827] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.352844] [00000307] libusb: debug [libusb_exit] 
+[1380574116.352851] [00000307] libusb: debug [libusb_exit] destroying default context
+[1380574116.352859] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.352867] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.352874] [00000307] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574116.352884] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574116.352898] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.352906] [00000307] libusb: debug [libusb_unref_device] destroy device 253.3
+[1380574116.352914] [00000307] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574116.352921] [00000307] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574116.352929] [00000307] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574116.352936] [00000307] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574116.352944] [00000307] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574116.352951] [00000307] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574116.352959] [00000307] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574116.352967] [00000307] libusb: debug [usbi_remove_pollfd] remove fd 17
+[-11657.000000] [0000f633] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[-175531249.999999] [00000307] libusb: debug [libusb_init] created default context
+[-950326504.000032] [00000307] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531248.000000] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x3a3651e2
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x3a56555a
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x3e452423
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x49c4e6ed
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff0956240e0 at 0x7ff0998f583a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x49d76c09
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff095609e40 at 0x7ff0998f525a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x4cb46d62
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff0956240e0 at 0x7ff097cb422a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x5dd39eee
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff09560b4b0 at 0x7ff098f8271a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff09561a1a0 for with session 0x803c9cf1b2f
+[-175531104.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff095609e40 at 0x7ff09543363a
+[1380574116.355566] [0000f7c3] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574116.355762] [0000f7c3] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574116.355800] [00000307] libusb: debug [usbi_add_pollfd] add fd 17 events 1
+[1380574116.355852] [00000307] libusb: debug [libusb_get_device_list] 
+[1380574116.355877] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355885] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355891] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355898] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355904] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355911] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355918] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.355924] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.357497] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.357508] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.357567] [00000307] libusb: debug [libusb_exit] 
+[1380574116.357575] [00000307] libusb: debug [libusb_exit] destroying default context
+[1380574116.357582] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.357590] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.357597] [00000307] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574116.357607] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574116.357620] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.357628] [00000307] libusb: debug [libusb_unref_device] destroy device 253.3
+[1380574116.357636] [00000307] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574116.357643] [00000307] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574116.357651] [00000307] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574116.357658] [00000307] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574116.357666] [00000307] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574116.357673] [00000307] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574116.357681] [00000307] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574116.357688] [00000307] libusb: debug [usbi_remove_pollfd] remove fd 17
+[-11657.000000] [0000f7c3] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[-175531249.999999] [00000307] libusb: debug [libusb_init] created default context
+[-950326504.000032] [00000307] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531249.999999] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x3a3651e2
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x3a56555a
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x3e452423
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x49c4e6ed
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff09553d720 at 0x7ff0998f583a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x49d76c09
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff0955437f0 at 0x7ff0998f525a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x4cb46d62
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff09553d720 at 0x7ff097cb422a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x5dd39eee
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff09554d9f0 at 0x7ff098f8271a
+[1276154096.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099aa5eb0 for with session 0x803c9cf1b2f
+[-175531104.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff0955437f0 at 0x7ff09543363a
+[1380574116.360209] [0000f453] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574116.360420] [0000f453] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574116.360457] [00000307] libusb: debug [usbi_add_pollfd] add fd 17 events 1
+[1380574116.360501] [00000307] libusb: debug [libusb_get_device_list] 
+[1380574116.360529] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360537] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360544] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360551] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360558] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360565] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360572] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.360579] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.362219] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.362236] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.362247] [00000307] libusb: debug [parse_configuration] skipping descriptor 0xb
+[1380574116.362256] [00000307] libusb: debug [parse_endpoint] skipping descriptor 25
+[1380574116.362314] [00000307] libusb: debug [libusb_exit] 
+[1380574116.362323] [00000307] libusb: debug [libusb_exit] destroying default context
+[1380574116.362331] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.362339] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.362347] [00000307] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574116.362358] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574116.362372] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.362380] [00000307] libusb: debug [libusb_unref_device] destroy device 253.3
+[1380574116.362388] [00000307] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574116.362396] [00000307] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574116.362416] [00000307] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574116.362425] [00000307] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574116.362433] [00000307] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574116.362441] [00000307] libusb: debug [libusb_unref_device] destroy device 253.1
+[1380574116.362449] [00000307] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574116.362457] [00000307] libusb: debug [usbi_remove_pollfd] remove fd 17
+[-11657.000000] [0000f453] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+[212881505.000000] [00000307] libusb: debug [libusb_init] created default context
+[-950326504.000032] [00000307] libusb: debug [libusb_init] libusb v1.0.22.11312
+[-175531248.000000] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a3651e2 against cached device with sessionID 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x3a3651e2
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff0998ca96a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3a56555a against cached device with sessionID 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x3a56555a
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 1 port = 1 parent = 0x0 at 0x7ff09562208a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x3e452423 against cached device with sessionID 0x3e452423
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x3e452423
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 2 parent = 0x0 at 0x7ff09995507a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49c4e6ed against cached device with sessionID 0x49c4e6ed
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x49c4e6ed
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff099b59500 at 0x7ff0998f583a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x49d76c09 against cached device with sessionID 0x49d76c09
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x49d76c09
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 2 port = 1 parent = 0x7ff099b595a0 at 0x7ff0998f525a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a3651e2
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x4cb46d62 against cached device with sessionID 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x4cb46d62
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 4 port = 1 parent = 0x7ff099b59500 at 0x7ff097cb422a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x4cb46d62
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x5dd39eee against cached device with sessionID 0x5dd39eee
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x5dd39eee
+[-175531107.999999] [00000307] libusb: debug [process_new_device] found device with address 6 port = 3 parent = 0x7ff099b615a0 at 0x7ff098f8271a
+[1276155360.000032] [00000307] libusb: debug [darwin_get_cached_device] finding cached device for sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] parent sessionID: 0x3a56555a
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] matching sessionID 0x803c9cf1b2f against cached device with sessionID 0x803c9cf1b2f
+[-175531248.999999] [00000307] libusb: debug [darwin_get_cached_device] using cached device for device
+[-175531248.999999] [00000307] libusb: debug [darwin_check_configuration] active config: 1, first config: 1
+[-175531248.999999] [00000307] libusb: debug [process_new_device] allocating new device in context 0x7ff099b5b0a0 for with session 0x803c9cf1b2f
+[-175531104.999999] [00000307] libusb: debug [process_new_device] found device with address 3 port = 2 parent = 0x7ff099b595a0 at 0x7ff09543363a
+[1380574116.365198] [0000f65b] libusb: debug [darwin_event_thread_main] creating hotplug event source
+[1380574116.365434] [0000f65b] libusb: debug [darwin_event_thread_main] darwin event thread ready to receive events
+[1380574116.365476] [00000307] libusb: debug [usbi_add_pollfd] add fd 17 events 1
+[1380574116.365531] [00000307] libusb: debug [libusb_get_device_list] 
+[1380574116.365557] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365565] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365572] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365578] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365594] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365602] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365608] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365615] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365623] [00000307] libusb: debug [libusb_get_device_descriptor] 
+[1380574116.365631] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.365642] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.365651] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.365660] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.365669] [00000307] libusb: debug [libusb_get_config_descriptor] index 0
+[1380574116.366226] [00000307] libusb: debug [libusb_open] open 253.3
+[1380574116.366317] [00000307] libusb: debug [darwin_open] device open for access
+[1380574116.366329] [00000307] libusb: debug [libusb_kernel_driver_active] interface 0
+[1380574116.366396] [00000307] libusb: debug [libusb_claim_interface] interface 0
+[1380574116.366808] [00000307] libusb: error [darwin_claim_interface] QueryInterface: unknown error (0x80000004)
+[1380574116.367000] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.367009] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.367017] [00000307] libusb: debug [handle_events] poll fds modified, reallocating
+[1380574116.367027] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 1ms
+[1380574116.368207] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.368257] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.368294] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.368301] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574116.368312] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.368321] [00000307] libusb: debug [libusb_release_interface] interface 0
+[1380574116.368355] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.368364] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.368371] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 1ms
+[1380574116.369537] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.369618] [00000307] libusb: debug [libusb_get_next_timeout] no URBs, no timeout!
+[1380574116.369626] [00000307] libusb: debug [libusb_handle_events_timeout_completed] doing our own event handling
+[1380574116.369634] [00000307] libusb: debug [handle_events] poll() 1 fds with timeout in 0ms
+[1380574116.369645] [00000307] libusb: debug [handle_events] poll() returned 0
+[1380574116.369653] [00000307] libusb: debug [libusb_release_interface] interface 0
+[1380574116.369677] [00000307] libusb: debug [libusb_exit] 
+[1380574116.369685] [00000307] libusb: debug [libusb_exit] destroying default context
+[1380574116.369693] [00000307] libusb: debug [libusb_unref_device] destroy device 250.6
+[1380574116.369702] [00000307] libusb: debug [libusb_unref_device] destroy device 250.4
+[1380574116.369710] [00000307] libusb: debug [libusb_unref_device] destroy device 253.2
+[1380574116.369718] [00000307] libusb: debug [libusb_unref_device] destroy device 250.3
+[1380574116.369726] [00000307] libusb: debug [libusb_unref_device] destroy device 250.2
+[1380574116.369734] [00000307] libusb: debug [libusb_unref_device] destroy device 250.1
+[1380574116.369742] [00000307] libusb: warning [libusb_exit] application left some devices open
+[1380574116.369749] [00000307] libusb: debug [usbi_remove_pollfd] remove fd 17
+[-11657.000000] [0000f65b] libusb: debug [darwin_event_thread_main] darwin event thread exiting
+
+(darktable-bin:1232): GLib-GObject-CRITICAL **: 13:29:35.446: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
