@@ -1,0 +1,299 @@
+2,203248 [camera_control] creating new context 0x7f89041c4df0
+2,256643 [camera_control] loaded 2601 camera drivers.
+2,378568 [camera_control] loaded 5 port drivers.
+2,400128 [camera_control] 1 cameras connected
+2,445836 [camera_control] registering listener 0x7f89023056e0
+2,469489 [camera_control] device USB PTP Class Camera on port usb:253,003 initialized
+13,870492 [camera_control] registering listener 0x7f88ffd3ae40
+13,870559 [camera_control] camera control locked for camera 0x7f8900350000
+17,781997 [camera_control] gphoto2 error: PTP General Error
+17,790657 [camera_control] gphoto2 error: PTP General Error
+17,799781 [camera_control] gphoto2 error: PTP General Error
+17,808117 [camera_control] gphoto2 error: PTP General Error
+17,816134 [camera_control] gphoto2 error: PTP General Error
+17,824666 [camera_control] gphoto2 error: PTP General Error
+17,833403 [camera_control] gphoto2 error: PTP General Error
+17,841836 [camera_control] gphoto2 error: PTP General Error
+17,848869 [camera_control] gphoto2 error: PTP General Error
+17,855674 [camera_control] gphoto2 error: PTP General Error
+17,862122 [camera_control] gphoto2 error: PTP General Error
+17,870339 [camera_control] gphoto2 error: PTP General Error
+17,877895 [camera_control] gphoto2 error: PTP General Error
+17,885665 [camera_control] gphoto2 error: PTP General Error
+17,893447 [camera_control] gphoto2 error: PTP General Error
+17,901056 [camera_control] gphoto2 error: PTP General Error
+17,930000 [camera_control] gphoto2 error: PTP General Error
+17,937523 [camera_control] gphoto2 error: PTP General Error
+17,945077 [camera_control] gphoto2 error: PTP General Error
+17,952538 [camera_control] gphoto2 error: PTP General Error
+17,960107 [camera_control] gphoto2 error: PTP General Error
+17,967904 [camera_control] gphoto2 error: PTP General Error
+17,995666 [camera_control] gphoto2 error: PTP General Error
+18,003332 [camera_control] gphoto2 error: PTP General Error
+18,011298 [camera_control] gphoto2 error: PTP General Error
+18,019166 [camera_control] gphoto2 error: PTP General Error
+18,027493 [camera_control] gphoto2 error: PTP General Error
+18,039443 [camera_control] gphoto2 error: PTP General Error
+18,049655 [camera_control] gphoto2 error: PTP General Error
+18,058391 [camera_control] gphoto2 error: PTP General Error
+18,065285 [camera_control] gphoto2 error: PTP General Error
+18,071463 [camera_control] gphoto2 error: PTP General Error
+18,077446 [camera_control] gphoto2 error: PTP General Error
+18,082565 [camera_control] gphoto2 error: PTP General Error
+18,087667 [camera_control] gphoto2 error: PTP General Error
+18,092568 [camera_control] gphoto2 error: PTP General Error
+18,097577 [camera_control] gphoto2 error: PTP General Error
+18,102172 [camera_control] gphoto2 error: PTP General Error
+18,106421 [camera_control] gphoto2 error: PTP General Error
+18,110172 [camera_control] gphoto2 error: PTP General Error
+18,113925 [camera_control] gphoto2 error: PTP General Error
+18,129351 [camera_control] gphoto2 error: PTP General Error
+18,132908 [camera_control] gphoto2 error: PTP General Error
+18,136392 [camera_control] gphoto2 error: PTP General Error
+18,139800 [camera_control] gphoto2 error: PTP General Error
+18,143244 [camera_control] gphoto2 error: PTP General Error
+18,146669 [camera_control] gphoto2 error: PTP General Error
+18,150005 [camera_control] gphoto2 error: PTP General Error
+18,153399 [camera_control] gphoto2 error: PTP General Error
+18,168955 [camera_control] gphoto2 error: PTP General Error
+18,172254 [camera_control] gphoto2 error: PTP General Error
+18,175470 [camera_control] gphoto2 error: PTP General Error
+18,178708 [camera_control] gphoto2 error: PTP General Error
+18,182050 [camera_control] gphoto2 error: PTP General Error
+18,185692 [camera_control] gphoto2 error: PTP General Error
+18,209726 [camera_control] gphoto2 error: PTP General Error
+18,236680 [camera_control] gphoto2 error: PTP General Error
+18,261661 [camera_control] gphoto2 error: PTP General Error
+18,304912 [camera_control] gphoto2 error: PTP General Error
+18,312430 [camera_control] gphoto2 error: PTP General Error
+18,320634 [camera_control] gphoto2 error: PTP General Error
+18,392534 [camera_control] gphoto2 error: PTP General Error
+18,400624 [camera_control] gphoto2 error: PTP General Error
+18,408645 [camera_control] gphoto2 error: PTP General Error
+19,112906 [camera_control] gphoto2 error: PTP General Error
+19,121270 [camera_control] gphoto2 error: PTP General Error
+19,128708 [camera_control] gphoto2 error: PTP General Error
+19,136880 [camera_control] gphoto2 error: PTP General Error
+19,144832 [camera_control] gphoto2 error: PTP General Error
+19,195876 [camera_control] gphoto2 error: PTP General Error
+19,204887 [camera_control] gphoto2 error: PTP General Error
+19,213017 [camera_control] gphoto2 error: PTP General Error
+19,242247 [camera_control] gphoto2 error: PTP General Error
+19,270672 [camera_control] gphoto2 error: PTP General Error
+19,300395 [camera_control] gphoto2 error: PTP General Error
+19,331071 [camera_control] gphoto2 error: PTP General Error
+19,338369 [camera_control] gphoto2 error: PTP General Error
+19,414972 [camera_control] gphoto2 error: PTP General Error
+19,444087 [camera_control] gphoto2 error: PTP General Error
+19,727609 [camera_control] gphoto2 error: PTP General Error
+19,736557 [camera_control] gphoto2 error: PTP General Error
+19,745212 [camera_control] gphoto2 error: PTP General Error
+19,847025 [camera_control] gphoto2 error: PTP General Error
+19,858023 [camera_control] gphoto2 error: PTP General Error
+19,866100 [camera_control] gphoto2 error: PTP General Error
+19,934816 [camera_control] gphoto2 error: PTP General Error
+19,938181 [camera_control] gphoto2 error: PTP General Error
+19,992464 [camera_control] gphoto2 error: PTP General Error
+20,012183 [camera_control] gphoto2 error: PTP General Error
+20,015692 [camera_control] gphoto2 error: PTP General Error
+20,020319 [camera_control] gphoto2 error: PTP General Error
+20,025047 [camera_control] gphoto2 error: PTP General Error
+20,054710 [camera_control] gphoto2 error: PTP General Error
+20,057566 [camera_control] gphoto2 error: PTP General Error
+20,094530 [camera_control] gphoto2 error: PTP General Error
+22,590435 [camera_control] gphoto2 error: PTP General Error
+22,605995 [camera_control] camera control un-locked for camera 0x7f8900350000
+22,606082 [camera_control] unregistering listener 0x7f88ffd3ae40
+22,614266 [camera_control] loaded 5 port drivers.
+22,627667 [camera_control] 1 cameras connected
+22,839682 [camera_control] loaded 5 port drivers.
+22,852318 [camera_control] 1 cameras connected
+22,861875 [camera_control] loaded 5 port drivers.
+22,873681 [camera_control] 1 cameras connected
+22,888346 [camera_control] loaded 5 port drivers.
+22,901204 [camera_control] 1 cameras connected
+22,910385 [camera_control] loaded 5 port drivers.
+22,922196 [camera_control] 1 cameras connected
+22,931238 [camera_control] loaded 5 port drivers.
+22,949820 [camera_control] 1 cameras connected
+22,958971 [camera_control] loaded 5 port drivers.
+22,970797 [camera_control] 1 cameras connected
+22,979825 [camera_control] loaded 5 port drivers.
+22,991616 [camera_control] 1 cameras connected
+23,000802 [camera_control] loaded 5 port drivers.
+23,012624 [camera_control] 1 cameras connected
+23,021823 [camera_control] loaded 5 port drivers.
+23,037809 [camera_control] 1 cameras connected
+23,048334 [camera_control] loaded 5 port drivers.
+23,060352 [camera_control] 1 cameras connected
+23,072988 [camera_control] loaded 5 port drivers.
+23,091391 [camera_control] 1 cameras connected
+23,100467 [camera_control] loaded 5 port drivers.
+23,112279 [camera_control] 1 cameras connected
+23,121444 [camera_control] loaded 5 port drivers.
+23,133372 [camera_control] 1 cameras connected
+23,142439 [camera_control] loaded 5 port drivers.
+23,154202 [camera_control] 1 cameras connected
+23,163311 [camera_control] loaded 5 port drivers.
+23,175504 [camera_control] 1 cameras connected
+23,184813 [camera_control] loaded 5 port drivers.
+23,202146 [camera_control] 1 cameras connected
+23,211450 [camera_control] loaded 5 port drivers.
+23,223180 [camera_control] 1 cameras connected
+23,232205 [camera_control] loaded 5 port drivers.
+23,249598 [camera_control] 1 cameras connected
+23,258661 [camera_control] loaded 5 port drivers.
+23,270514 [camera_control] 1 cameras connected
+23,279639 [camera_control] loaded 5 port drivers.
+23,291438 [camera_control] 1 cameras connected
+23,300760 [camera_control] loaded 5 port drivers.
+23,318068 [camera_control] 1 cameras connected
+23,327191 [camera_control] loaded 5 port drivers.
+23,338982 [camera_control] 1 cameras connected
+23,347968 [camera_control] loaded 5 port drivers.
+23,366438 [camera_control] 1 cameras connected
+23,375642 [camera_control] loaded 5 port drivers.
+23,387470 [camera_control] 1 cameras connected
+23,396522 [camera_control] loaded 5 port drivers.
+23,414173 [camera_control] 1 cameras connected
+23,426991 [camera_control] loaded 5 port drivers.
+23,440681 [camera_control] 1 cameras connected
+23,449733 [camera_control] loaded 5 port drivers.
+23,461454 [camera_control] 1 cameras connected
+23,470511 [camera_control] loaded 5 port drivers.
+23,482604 [camera_control] 1 cameras connected
+23,491974 [camera_control] loaded 5 port drivers.
+23,509135 [camera_control] 1 cameras connected
+23,518240 [camera_control] loaded 5 port drivers.
+23,530038 [camera_control] 1 cameras connected
+23,539652 [camera_control] loaded 5 port drivers.
+23,557695 [camera_control] 1 cameras connected
+23,566761 [camera_control] loaded 5 port drivers.
+23,578641 [camera_control] 1 cameras connected
+23,587713 [camera_control] loaded 5 port drivers.
+23,599522 [camera_control] 1 cameras connected
+23,614381 [camera_control] loaded 5 port drivers.
+23,627065 [camera_control] 1 cameras connected
+23,636143 [camera_control] loaded 5 port drivers.
+23,647853 [camera_control] 1 cameras connected
+23,656837 [camera_control] loaded 5 port drivers.
+23,668908 [camera_control] 1 cameras connected
+23,679998 [camera_control] loaded 5 port drivers.
+23,695515 [camera_control] 1 cameras connected
+23,790779 [camera_control] loaded 5 port drivers.
+23,807521 [camera_control] 1 cameras connected
+23,817241 [camera_control] loaded 5 port drivers.
+23,834697 [camera_control] 1 cameras connected
+23,843805 [camera_control] loaded 5 port drivers.
+23,855510 [camera_control] 1 cameras connected
+23,864581 [camera_control] loaded 5 port drivers.
+23,878665 [camera_control] 1 cameras connected
+23,891195 [camera_control] loaded 5 port drivers.
+23,903136 [camera_control] 1 cameras connected
+23,912254 [camera_control] loaded 5 port drivers.
+23,923976 [camera_control] 1 cameras connected
+23,936700 [camera_control] loaded 5 port drivers.
+23,950508 [camera_control] 1 cameras connected
+23,965400 [camera_control] loaded 5 port drivers.
+23,982558 [camera_control] 1 cameras connected
+23,995888 [camera_control] loaded 5 port drivers.
+24,010514 [camera_control] 1 cameras connected
+24,020151 [camera_control] loaded 5 port drivers.
+24,038109 [camera_control] 1 cameras connected
+24,047778 [camera_control] loaded 5 port drivers.
+24,060445 [camera_control] 1 cameras connected
+24,075162 [camera_control] loaded 5 port drivers.
+24,091418 [camera_control] 1 cameras connected
+24,104409 [camera_control] loaded 5 port drivers.
+24,117639 [camera_control] 1 cameras connected
+24,131144 [camera_control] loaded 5 port drivers.
+24,147100 [camera_control] 1 cameras connected
+24,162690 [camera_control] loaded 5 port drivers.
+24,177661 [camera_control] 1 cameras connected
+24,187377 [camera_control] loaded 5 port drivers.
+24,205532 [camera_control] 1 cameras connected
+24,215302 [camera_control] loaded 5 port drivers.
+24,227702 [camera_control] 1 cameras connected
+24,242635 [camera_control] loaded 5 port drivers.
+24,255095 [camera_control] 1 cameras connected
+24,268735 [camera_control] loaded 5 port drivers.
+24,282315 [camera_control] 1 cameras connected
+24,297185 [camera_control] loaded 5 port drivers.
+24,311541 [camera_control] 1 cameras connected
+24,322399 [camera_control] loaded 5 port drivers.
+24,335935 [camera_control] 1 cameras connected
+24,345208 [camera_control] loaded 5 port drivers.
+24,359371 [camera_control] 1 cameras connected
+24,373258 [camera_control] loaded 5 port drivers.
+24,386188 [camera_control] 1 cameras connected
+24,395562 [camera_control] loaded 5 port drivers.
+24,411783 [camera_control] 1 cameras connected
+24,421698 [camera_control] loaded 5 port drivers.
+24,434088 [camera_control] 1 cameras connected
+24,448701 [camera_control] loaded 5 port drivers.
+24,462731 [camera_control] 1 cameras connected
+24,476118 [camera_control] loaded 5 port drivers.
+24,488566 [camera_control] 1 cameras connected
+24,498059 [camera_control] loaded 5 port drivers.
+24,516608 [camera_control] 1 cameras connected
+24,528626 [camera_control] loaded 5 port drivers.
+24,543706 [camera_control] 1 cameras connected
+24,557813 [camera_control] loaded 5 port drivers.
+24,571357 [camera_control] 1 cameras connected
+24,582603 [camera_control] loaded 5 port drivers.
+24,598931 [camera_control] 1 cameras connected
+24,612781 [camera_control] loaded 5 port drivers.
+24,626516 [camera_control] 1 cameras connected
+24,638409 [camera_control] loaded 5 port drivers.
+24,656326 [camera_control] 1 cameras connected
+24,665901 [camera_control] loaded 5 port drivers.
+24,684748 [camera_control] 1 cameras connected
+24,694659 [camera_control] loaded 5 port drivers.
+24,712258 [camera_control] 1 cameras connected
+24,721698 [camera_control] loaded 5 port drivers.
+24,733723 [camera_control] 1 cameras connected
+24,744499 [camera_control] loaded 5 port drivers.
+24,760502 [camera_control] 1 cameras connected
+24,770556 [camera_control] loaded 5 port drivers.
+24,788136 [camera_control] 1 cameras connected
+24,799555 [camera_control] loaded 5 port drivers.
+24,815433 [camera_control] 1 cameras connected
+24,824904 [camera_control] loaded 5 port drivers.
+24,837604 [camera_control] 1 cameras connected
+24,850411 [camera_control] loaded 5 port drivers.
+24,864648 [camera_control] 1 cameras connected
+24,878141 [camera_control] loaded 5 port drivers.
+24,891543 [camera_control] 1 cameras connected
+24,906687 [camera_control] loaded 5 port drivers.
+24,919198 [camera_control] 1 cameras connected
+24,932975 [camera_control] loaded 5 port drivers.
+24,946141 [camera_control] 1 cameras connected
+24,955550 [camera_control] loaded 5 port drivers.
+24,969054 [camera_control] 1 cameras connected
+24,983642 [camera_control] loaded 5 port drivers.
+24,995660 [camera_control] 1 cameras connected
+25,004700 [camera_control] loaded 5 port drivers.
+25,016508 [camera_control] 1 cameras connected
+25,026081 [camera_control] loaded 5 port drivers.
+25,042879 [camera_control] 1 cameras connected
+25,051994 [camera_control] loaded 5 port drivers.
+25,064045 [camera_control] 1 cameras connected
+25,073253 [camera_control] loaded 5 port drivers.
+25,086895 [camera_control] 1 cameras connected
+25,098110 [camera_control] loaded 5 port drivers.
+25,113624 [camera_control] 1 cameras connected
+25,124709 [camera_control] loaded 5 port drivers.
+25,141509 [camera_control] 1 cameras connected
+25,151540 [camera_control] loaded 5 port drivers.
+25,169403 [camera_control] 1 cameras connected
+25,179682 [camera_control] loaded 5 port drivers.
+25,195851 [camera_control] 1 cameras connected
+25,206425 [camera_control] loaded 5 port drivers.
+25,218486 [camera_control] 1 cameras connected
+25,233465 [camera_control] loaded 5 port drivers.
+25,246041 [camera_control] 1 cameras connected
+25,259122 [camera_control] loaded 5 port drivers.
+25,273994 [camera_control] 1 cameras connected
+25,288376 [camera_control] loaded 5 port drivers.
+25,304302 [camera_control] 1 cameras connected
+32,067797 [camera_control] unregistering listener 0x7f89023056e0
