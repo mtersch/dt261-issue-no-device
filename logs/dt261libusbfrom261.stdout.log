@@ -1,0 +1,10 @@
+5,744747 [camera_control] creating new context 0x7fb83ea137f0
+6,759722 [camera_control] loaded 2601 camera drivers.
+7,196687 [camera_control] loaded 4 port drivers.
+7,211216 [camera_control] 0 cameras connected
+7,576284 [camera_control] registering listener 0x7fb83a748220
+20,715763 [camera_control] loaded 5 port drivers.
+20,730950 [camera_control] 1 cameras connected
+20,735457 [camera_control] failed to initialize camera Nikon DSC D610 on port usb:253,003
+20,735468 [camera_control] failed to initialize device Nikon DSC D610 on port usb:253,003, probably causes are: locked by another application, no access to udev etc.
+40,703944 [camera_control] unregistering listener 0x7fb83a748220
